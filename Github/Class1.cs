@@ -9,5 +9,7 @@ public class Class1
 		Console.WriteLine("These changes are made on the visual studio")
 		Console.WriteLine("This is meant for the Practice of handling, this line is made for comparison purpose. I really like doing what I am doing")
 		Console.WriteLine("This is added on github by itself and hel for the comparison of these two things")
+			// why do we really care about conflicts created by develpers and software engineers
+			Consile.WriteLine("This is from the github + +++++++")
 	}
 }

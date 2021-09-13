@@ -13,10 +13,13 @@ public class Class1
 		Consile.Write("We love this changes to make better, Changes made in the visual studio");
 		// why do we really care about conflicts created by develpers and software engineers
 		Consile.WriteLine("This is from the github + +++++++");
-
 		//This is the change made in visula studio
 		Console.WindowHeight(Console.BackgroundColor);
 		Console.WriteLine("This change is made in visual studio and it is really handy one");
 		Console.Read();
+		//Why do we really care about these conditions. I am not the one I create these things.
+		Console.Write("This is written on GITHUB to show how do we resolve conflicts");
+		Consile.ReadLine();
+		Console.WriteLine("I am worndering how the git makes life easy and wornder for the software engineers");
 	}
 }
